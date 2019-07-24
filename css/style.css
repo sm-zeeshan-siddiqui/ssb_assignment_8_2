@@ -533,6 +533,15 @@ textarea{
   font-size: 18px;
 }
 
+.fa-mobile:hover{
+   color: lightskyblue;
+}
+
+.fa-envelope:hover{
+   color: darkgrey;
+}
+
+
 .fa-twitter:hover{
     color :#1DA1F2;
 }
