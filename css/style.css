@@ -533,6 +533,23 @@ textarea{
   font-size: 18px;
 }
 
+.fa-twitter:hover{
+    color :#1DA1F2;
+}
+
+.fa-pinterest-p:hover{
+	
+    color:#CB1F27;
+}
+
+.fa-facebook:hover{
+   color :#4267B2;
+}
+
+.fa-instagram:hover{
+   color : #FAAC92;
+}
+
 
 /*Newsletter Section End*/
 
